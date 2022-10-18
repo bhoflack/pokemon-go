@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="cJ[.^Io|?O?4q#Zztgp2" x="0" y="0"><statement name="HANDLER"><block type="radio_set_group" id="rC:$V[mYw^o!{2.2W:!W"><value name="ID"><shadow type="math_number_minmax" id="yY]8$Qft9sKZFJM0`qQ0"><mutation min="0" max="255" label="Id" precision="0"></mutation><field name="SLIDER">1</field></shadow></value><next><block type="radio_set_transmit_power" id="k+l7j]2}LJSMbw~G/eDa"><value name="power"><shadow type="math_number_minmax" id="T.y3ku+jvWJqM[K;uI}]"><mutation min="0" max="7" label="Power" precision="0"></mutation><field name="SLIDER">7</field></shadow></value></block></next></block></statement></block><block type="device_forever" id="ZPAw`,Qf}Spof*6|4XeD" x="481" y="39"><statement name="HANDLER"><block type="radio_datagram_send_string" id="dh1^.cV}~@GI[RD2C=_s"><value name="msg"><shadow type="text" id="bfzTt:3JZ%mPHJ`bU:EK"><field name="TEXT">charmander</field></shadow></value><next><block type="device_show_leds" id="jEML1PDN^X;ub/!Wt_R)"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="UcuFMv4]nIyUN]x(!b4c"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . # . # . 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="#GRx/-Bw;Jo7Q#KxdyT)"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field></block></next></block></next></block></next></block></statement></block></xml>
