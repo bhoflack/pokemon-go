@@ -1,5 +1,5 @@
 
-> Open this page at [https://melexis-stem.github.io/pokemon-go/](https://bhoflack.github.io/pokemon-go/)
+> Open this page at [https://melexis-stem.github.io/pokemon-go/](https://melexis-stem.github.io/pokemon-go/)
 
 ## Use as Extension
 
@@ -8,7 +8,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/bhoflack/pokemon-go** and import
+* search for **https://github.com/melexis-stem/pokemon-go** and import
 
 ## Edit this project ![Build status badge](https://github.com/melexis-stem/pokemon-go/workflows/MakeCode/badge.svg)
 
